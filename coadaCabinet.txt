@@ -1,0 +1,10 @@
+0 0 0 0 0 Pacientul 0 soseste la 0, asteapta 0 minute si intra la medicul 0, timp de consulatie: 38 
+0 0 0 0 38 Pacientul 1 soseste la 8, asteapta 0 minute si intra la medicul 1, timp de consulatie: 58 
+0 0 0 38 58 Pacientul 2 soseste la 10, asteapta 0 minute si intra la medicul 2, timp de consulatie: 55 
+0 0 38 55 58 Pacientul 3 soseste la 15, asteapta 0 minute si intra la medicul 3, timp de consulatie: 18 
+0 18 38 55 58 Pacientul 4 soseste la 15, asteapta 0 minute si intra la medicul 4, timp de consulatie: 18 
+18 18 38 55 58 Pacientul 5 soseste la 15, asteapta 3 minute si intra la medicul 4, timp de consulatie: 50 
+18 38 55 58 71 Pacientul 6 soseste la 15, asteapta 3 minute si intra la medicul 3, timp de consulatie: 27 
+38 48 55 58 71 Pacientul 7 soseste la 16, asteapta 22 minute si intra la medicul 0, timp de consulatie: 39 
+48 55 58 71 99 Pacientul 8 soseste la 16, asteapta 32 minute si intra la medicul 3, timp de consulatie: 56 
+55 58 71 99 136 Pacientul 9 soseste la 16, asteapta 39 minute si intra la medicul 2, timp de consulatie: 35 
