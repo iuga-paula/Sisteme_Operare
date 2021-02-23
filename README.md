@@ -1,4 +1,4 @@
-# Sisteme_Operare
+# Sisteme de Operare
 ## _Cabinet Medical_
 
 Proiect individual - programarea unei cozi de pacienți la medici. Se creează  un număr dat de thread-uri pacienți care
@@ -8,3 +8,8 @@ vor ocupa resursa doctor pentru o perioadă random care să nu depășească o l
 Fiecare pacient va fi generat la un interval aleator pentru o perioadă data de timp. După
 consultație, pacientulului, i va afișa timpul de așteptare și timpul consultației.
 
+## Tehnologii
+
+* C
+* Threaduri
+* Mutex
